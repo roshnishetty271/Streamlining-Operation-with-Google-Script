@@ -10,7 +10,7 @@ Implementation Guide:
 • Detects Google Form submission by participant B and saves the form responses as PDF in the folder.
 • Sends email notifications to both the participants.
 
- 3. Setup Instructions
+ 2. Setup Instructions
     
 A. Add the Script to Google Apps Script
 1. Go to Google Apps Script.
