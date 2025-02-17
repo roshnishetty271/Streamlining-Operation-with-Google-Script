@@ -1,4 +1,4 @@
-/*
+
 function onCalendarEventCreate(e) 
 {
   try {
@@ -225,7 +225,7 @@ function setupFormTrigger() {
     .onFormSubmit()
     .create();
 }
-*/
+
 
 
 
