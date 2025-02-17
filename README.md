@@ -41,11 +41,11 @@ B. Form Submission Handling (onFormSubmit(e))
 
  4. Running the Script
     
-1. Run setupCalendarTrigger() and setupFormTrigger() once.
-2. Create a Google Calendar event with participant details.
-3. Check Google Drive of participant A for the created folder.
-4. Submit a Google Form by participant B and verify the saved PDF in the folder shared with participant A.
-5. Confirm email notifications in both the participants inbox.
+   Run setupCalendarTrigger() and setupFormTrigger() once.
+   Create a Google Calendar event with participant details.
+   Check Google Drive of participant A for the created folder.
+   Submit a Google Form by participant B and verify the saved PDF in the folder shared with participant A.
+   Confirm email notifications in both the participants inbox.
    
  5. Logging & Debugging
     
