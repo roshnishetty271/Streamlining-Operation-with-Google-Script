@@ -30,6 +30,7 @@ A. Calendar Event Handling (onCalendarEventCreate(e))
 • Stores participant and folder details using PropertiesService.
 
 Example: Event Description Format
+
   Participant A: Roshni Shetty (roshni99.shetty@gmail.com)
   Participant B: Roshan Shetty (roshnishetty.634@gmail.com)
 
