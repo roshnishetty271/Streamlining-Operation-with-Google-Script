@@ -76,15 +76,17 @@ B. Form Submission Handling (onFormSubmit(e))
 
 
 
----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
 **After creation of Google Event:**
 
 ![image](https://github.com/user-attachments/assets/9fcdb09f-3687-4b96-8d85-0c0f55b9dd2c)
 
+
 ![image](https://github.com/user-attachments/assets/49f9a6c0-3c16-46fe-9633-d8b7a71cfc5e)
 
 
-**After Google form submission:***
+------------------------------------------------------------------------------------------------------------------------
+**After submission of Google form:**
 
 ![image](https://github.com/user-attachments/assets/bdc76d68-964e-4bbf-8407-bd33be5d237d)
 
