@@ -74,7 +74,10 @@ B. Form Submission Handling (onFormSubmit(e))
     
 • Go to Apps Script → Executions to check logs.
 
-**After creation of Google Event**
+
+
+---------------------------------------------------------------------------------------------------------------------
+**After creation of Google Event:**
 
 ![image](https://github.com/user-attachments/assets/9fcdb09f-3687-4b96-8d85-0c0f55b9dd2c)
 
