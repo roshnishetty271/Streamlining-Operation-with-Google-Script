@@ -1,8 +1,8 @@
 # Streamlining-Operation-with-Google-Script
 
-Implementation Guide:
+***Implementation Guide:***
 
- 1. Key Features
+***1. Key Features***
     
 • Detects newly created Google Calendar events.
 
@@ -14,7 +14,7 @@ Implementation Guide:
 
 • Sends email notifications to both the participants.
 
- 2. Setup Instructions
+***2. Setup Instructions***
     
 A. Add the Script to Google Apps Script
 
@@ -32,7 +32,7 @@ B. Set Up Triggers for Automation
   
   • Form Submission Trigger → Run setupFormTrigger() once to process form responses.
 
- 3. How the Script Works
+***3. How the Script Works***
     
 A. Calendar Event Handling (onCalendarEventCreate(e))
 
@@ -57,8 +57,8 @@ B. Form Submission Handling (onFormSubmit(e))
   • Saves the PDF in the folder shared with participant A.
   
   • Sends email notifications to both the participants.
-
- 4. Running the Script
+  
+***4. Running the Script***
     
    Run setupCalendarTrigger() and setupFormTrigger() once.
    
@@ -70,6 +70,6 @@ B. Form Submission Handling (onFormSubmit(e))
    
    Confirm email notifications in both the participants inbox.
    
- 5. Logging & Debugging
+***5. Logging & Debugging***
     
 • Go to Apps Script → Executions to check logs.
